@@ -9,11 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/material": "^5.11.14",
+    "@mui/x-date-pickers": "^6.0.2",
     "daisyui": "^2.42.1",
+    "dayjs": "^1.11.7",
+    "formik": "^2.2.9",
     "next": "13.0.5",
     "next-auth": "^4.17.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "yup": "^1.0.2"
   },
   "devDependencies": {
     "@types/node": "18.11.9",
